@@ -1,5 +1,5 @@
 # Python
-##Python program-Numerical operations
+#Python program-Numerical operations
 A Python-based calculator designed to facilitate various numerical analyses. The Advanced Number Analyzer Calculator is intended to assist students and professionals alike in exploring properties of integers.
 
 
